@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\source\\repos\\Yummy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\dtos\\contactdtos\\resultcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\dtos\\contactdtos\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\dtos\\contactdtos\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\dtos\\contactdtos\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|c:\\users\\kamal\\source\\repos\\yummy\\yummy.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC0FAD4-9F86-4186-AE21-FA9C99E349BA}|Yummy.WebApi\\Yummy.WebApi.csproj|solutionrelative:yummy.webapi\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Program.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:21:28.447Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -42,54 +55,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\ContactsController.cs",
-              "RelativeDocumentMoniker": "Yummy.WebApi\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\ContactsController.cs",
-              "RelativeToolTip": "Yummy.WebApi\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAxwDsAAABLAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvz4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:14:46.552Z",
+              "WhenOpened": "2025-06-19T07:08:20.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateContactDto.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
-              "RelativeDocumentMoniker": "Yummy.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
-              "RelativeToolTip": "Yummy.WebApi\\Dtos\\ContactDtos\\CreateContactDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Title": "FeaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\FeaturesController.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Controllers\\FeaturesController.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Controllers\\FeaturesController.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Controllers\\FeaturesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwCMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:14:18.855Z",
+              "WhenOpened": "2025-06-19T06:54:00.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdateContactDto.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\UpdateContactDto.cs",
-              "RelativeDocumentMoniker": "Yummy.WebApi\\Dtos\\ContactDtos\\UpdateContactDto.cs",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\UpdateContactDto.cs",
-              "RelativeToolTip": "Yummy.WebApi\\Dtos\\ContactDtos\\UpdateContactDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "Yummy.WebApi\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "Yummy.WebApi\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:14:04.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResultContactDto.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
-              "RelativeDocumentMoniker": "Yummy.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
-              "RelativeToolTip": "Yummy.WebApi\\Dtos\\ContactDtos\\ResultContactDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T23:13:26.378Z",
+              "WhenOpened": "2025-06-19T06:46:46.514Z",
               "EditorCaption": ""
             }
           ]

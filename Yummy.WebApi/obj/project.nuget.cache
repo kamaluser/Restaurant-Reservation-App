@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j+X0tUYpZC8=",
+  "dgSpecHash": "TS10+/5Xxvo=",
   "success": true,
   "projectFilePath": "C:\\Users\\kamal\\source\\repos\\Yummy\\Yummy.WebApi\\Yummy.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kamal\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\kamal\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

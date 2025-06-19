@@ -74,3 +74,4 @@ C:\Users\kamal\source\repos\Yummy\Yummy.WebApi\obj\Debug\net6.0\refint\Yummy.Web
 C:\Users\kamal\source\repos\Yummy\Yummy.WebApi\obj\Debug\net6.0\Yummy.WebApi.pdb
 C:\Users\kamal\source\repos\Yummy\Yummy.WebApi\obj\Debug\net6.0\Yummy.WebApi.genruntimeconfig.cache
 C:\Users\kamal\source\repos\Yummy\Yummy.WebApi\obj\Debug\net6.0\ref\Yummy.WebApi.dll
+C:\Users\kamal\source\repos\Yummy\Yummy.WebApi\bin\Debug\net6.0\AutoMapper.dll
